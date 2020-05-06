@@ -12,4 +12,4 @@ Pour debuter et comprendre dans l'algorithmie, quoi de mieux que de pratiquer:
 
 Veuillez cliquez sur ce lien et faire les exercice suivant:
 
-   [I'm an inline-style link](https://www.kwyk.fr/algorithme/sommaire/)
+   [Algorithme_Base](https://www.kwyk.fr/algorithme/sommaire/)
