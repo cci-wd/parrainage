@@ -31,7 +31,7 @@ Qu'est-ce que c’est ?
 
 Comment ça marche ?
 
-    Pour établir une suite d’instructions en programmation nous avons besoin de variables, fonctions, boucles et structures           conditionnelles.
+    Pour établir une suite d’instructions en programmation nous avons besoin de variables, fonctions, boucles et structures  conditionnelles.
 
 Bon tout ces mots (variables, fonctions, boucles et structures conditionnelles)  vous semblent un peu "étranger" ou "inconnues" mais ne vous affollez pas ce n'est rien d'autre que des termes utilisé en informatique pour definir les outils que vous utiliserais pour concevoir votre algorithme.
 
