@@ -1,4 +1,4 @@
-Algorithmie
+### Algorithmie
 
 Qu'est-ce que c’est ?
 
@@ -35,7 +35,7 @@ Comment ça marche ?
 
 Bon tout ces mots (variables, fonctions, boucles et structures conditionnelles)  vous semblent un peu "étranger" ou "inconnues" mais ne vous affollez pas ce n'est rien d'autre que des termes utilisé en informatique pour definir les outils que vous utiliserais pour concevoir votre algorithme.
 
-Bon revenons à notre gâteau, il ne va pas ce faire tout seule, comme l'ordinateur, on a besoind de ces instructions pour cuisiner.
+Bon revenons à notre gâteau, il ne va pas ce faire tout seule, comme l'ordinateur, on a besoin de ces instructions pour cuisiner.
 Et tout cela se déroule en plusieurs étapes consécutives qu'il faut suivre attentitivement:
 
     1. Préchauffez votre four à 180°C (thermostat 6).
@@ -51,5 +51,12 @@ Et voila votre algoritme est terminer, il ne reste plus qu'a le déguster ;)
 Pour debuter et comprendre dans l'algorithmie, quoi de mieux que de pratiquer:
 
 Veuillez cliquez sur ce lien et faire les exercice suivant:
-
+    
    [Algorithme_Base](https://www.kwyk.fr/algorithme/sommaire/)
+
+Résolvez correctement les 2 problèmes.
+
+__Bonus__: Pour ceux qui se sentent à l'aise, essayer les sections:
+      1. Programmation événementielle
+      2. Programmation parallèle
+      3. Aller plus loin
