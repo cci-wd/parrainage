@@ -35,7 +35,7 @@ Comment ça marche ?
 
 Bon tout ces mots (variables, fonctions, boucles et structures conditionnelles)  vous semblent un peu "étranger" ou "inconnues" mais ne vous affollez pas ce n'est rien d'autre que des termes utilisé en informatique pour definir les outils que vous utiliserais pour concevoir votre algorithme.
 
-Bon revenons à notre gâteau, il ne va pas ce faire tout seule, comme l'ordinateur, on a besoin de ces instructions pour cuisiner.
+Bon revenons à notre gâteau, il ne va pas se faire tout seul. Comme l'ordinateur, on a besoin de ces instructions pour cuisiner.
 Et tout cela se déroule en plusieurs étapes consécutives qu'il faut suivre attentitivement:
 
     1. Préchauffez votre four à 180°C (thermostat 6).
@@ -46,7 +46,7 @@ Et tout cela se déroule en plusieurs étapes consécutives qu'il faut suivre at
     6. Faites cuire au four environ 20 minutes.
     7. A la sortie du four le gâteau ne paraît pas assez cuit. C'est normal, laissez-le refroidir puis démoulez- le.
 
-Et voila votre algoritme est terminer, il ne reste plus qu'a le déguster ;)
+Et voila votre algoritme est terminer, il ne reste plus qu'a le déguster :wink:
 
 Pour debuter et comprendre dans l'algorithmie, quoi de mieux que de pratiquer:
 
