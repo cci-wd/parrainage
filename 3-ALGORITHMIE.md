@@ -1,4 +1,4 @@
-### Algorithmie
+### Algorithme
 
 Qu'est-ce que c’est ?
 
