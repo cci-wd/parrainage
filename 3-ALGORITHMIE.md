@@ -50,13 +50,10 @@ Et voila votre algoritme est terminer, il ne reste plus qu'a le déguster ;)
 
 Pour debuter et comprendre dans l'algorithmie, quoi de mieux que de pratiquer:
 
-Veuillez cliquez sur ce lien et faire les exercice suivant:
+Veuillez cliquez sur ce lien et faire les exercices suivant:
     
    [Algorithme_Base](https://www.kwyk.fr/algorithme/sommaire/)
 
 Résolvez correctement les 2 problèmes.
 
-__Bonus__: Pour ceux qui se sentent à l'aise, essayer les sections:
-      1. Programmation événementielle
-      2. Programmation parallèle
-      3. Aller plus loin
+__Bonus__: Pour ceux qui se sentent à l'aise, essayer les sections:Programmation événementielle, Programmation parallèle et Aller plus loin
